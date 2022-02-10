@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(project_tsa LANGUAGES CXX)
+project(understandingbetter LANGUAGES CXX)
 
-set(BINARY_NAME "project_tsa")
+set(BINARY_NAME "understandingbetter")
 
 cmake_policy(SET CMP0063 NEW)
 
